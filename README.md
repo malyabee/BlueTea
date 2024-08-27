@@ -4,9 +4,9 @@ A Sleep-Prevention Program
 
 ---
 
-### Project Requirements for a Python-Based Cross-Platform Sleep-Prevention Program
 
-**Project Name:** Python Sleep-Prevention Program (Caffeine Clone)
+**Project Name:**  BlueTea --  A Python-Based Cross-Platform Sleep-Prevention Program
+
 
 **Objective:**  
 To develop a lightweight, cross-platform application using Python that prevents the system from going to sleep or activating the screensaver, providing users with a reliable tool to keep their computers awake during long-running tasks, presentations, or other uninterrupted activities.
